@@ -9,6 +9,7 @@ O programa serve para calcular e exibir o caminho mais curto entre pontos em um 
 ୨୧﹕ Node representa os pontos do mapa e suas conexões, além de notificar o controlador quando clicado.
 
 ୨୧﹕Pathfinder aplica um algoritmo de busca em largura (BFS) para encontrar e retornar o caminho mais eficiente.
+
 ╰ ★
 
 O sistema garante trajetos precisos e visuais entre os pontos.
